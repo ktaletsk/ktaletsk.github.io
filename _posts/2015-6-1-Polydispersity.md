@@ -8,4 +8,4 @@ Modification of GPU DSM app to support polydisperse linear chains. I will be usi
 1. Change background chains behaviour
 2. Change probe chain behaviour
 
-1. tau_cd distribution for linear chains depends on 4 parameters: &tau;<sup>0</sup>
+1. tau_cd distribution for linear chains depends on 4 parameters: &tau;<sub>0</sub>
